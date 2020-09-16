@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%">
+<img src="banner.png" width="1000">
 ### Cześć! 👋
 
 Miło cię poznać! Mam na imię Marcin. Mam 12 lat. Jestem początkującym programistą. Korzystam z HTML, CSS i JS. 
