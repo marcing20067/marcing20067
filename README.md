@@ -1,4 +1,4 @@
-![](banner.png | width=100%)
+<img src="banner.png" width="200" height="400" />
 ### Cześć! 👋
 
 Miło cię poznać! Mam na imię Marcin. Mam 12 lat. Jestem początkującym programistą. Korzystam z HTML, CSS i JS. 
