@@ -14,6 +14,7 @@ These are simple things, but the fun is just getting started;).
 - ANGULAR
 - NPM
 - GULP
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=marcing20067&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marcing20067&layout=compact)
 
