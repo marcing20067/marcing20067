@@ -3,7 +3,7 @@
 - 💻 I'm Full Stack Developer.
 - 👱‍♂️ Twelve-year-old student
 - 📚 I’m currently learning node.js(express)
-- 🥅 My goals: make app in express & node.js(express)
+- 🥅 My goals: make app in angular & node.js(express)
 
 ## Tools and languages
 
