@@ -1,27 +1,25 @@
-<img src="https://github.com/marcing20067/marcing20067/blob/master/banner.png" alt="Marcin Grądzik banner">
+# Hi, I'm Marcin Grądzik
 
-# Hi, I'm Marcin :)
+- 💻 I'm Full Stack Developer.
+- 👱‍♂️ Twelve-year-old student
+- 📚 I’m currently learning node.js(express)
+- 🥅 My goals: make app in express & node.js(express)
 
-Nice to meet you! I'm Marcin. I'm 12 years old I'm a beginner programr. I use HTML, CSS, and JS. 5 My profile contains some interesting projects that power my portfolio.
-These are simple things, but the fun is just getting started;).
+## Tools and languages
 
-## My stack is:
+<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/vsc.jpg" />
+<img alt="Html" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/html.png" />
+<img alt="Css" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/css.png" />
+<img alt="Sass" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/sass.png" />
+<img alt="Js" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/js.png" />
+<img alt="Angular" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/angular.png" />
+<img alt="Gulp" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/gulp.png" />
+<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/nodejs.png" />
+<img alt="Express" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/express.png" />
+<img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/mongodb.png" />
+<img alt="Git" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/git.png" />
+<img alt="Github" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/github.png" />
 
-- HTML
-- CSS
-- SASS
-- JS
-- ANGULAR
-- NPM
-- GULP
-
-![Stats](https://github-readme-stats.vercel.app/api?username=marcing20067&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marcing20067&layout=compact)
-
-# Hej, mam na imię Marcin :)
-
-Miło cię poznać! Mam na imię Marcin. Mam 12 lat. Jestem początkującym programistą. Korzystam z HTML, CSS i JS. 
-Na moim profilu znajdziesz parę ciekawych projektów zasilające moje portfolio. 
-Są to proste rzeczy, ale zabawa dopiero się rozkręza ;) .
 
 
