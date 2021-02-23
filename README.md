@@ -7,7 +7,7 @@
 
 ## Tools and languages
 
-<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/vsc.jpg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/vsc.jpg" />
 <img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/html.png" />
 <img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/sass.png" />
