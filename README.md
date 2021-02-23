@@ -20,6 +20,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/git.png" />
 <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/github.png" />
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marcing20067&layout=compact)
+<br><br>
+
+![Language stats align="left"](https://github-readme-stats.vercel.app/api/top-langs/?username=marcing20067&layout=compact)
 
 
