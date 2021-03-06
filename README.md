@@ -1,6 +1,6 @@
 # Hi, I'm Marcin Grądzik
 
-- 💻 I'm Full Stack Developer.
+- 💻 I'm Front-end Developer.
 - 👱‍♂️ Twelve-year-old student
 - 📚 I’m currently learning node.js(express)
 - 🥅 My goals: make app in angular & node.js(express)
