@@ -1,9 +1,8 @@
 # Hi, I'm Marcin Grądzik
 
 - 💻 I'm Front-end Developer.
-- 👱‍♂️ Twelve-year-old student
-- 📚 I’m currently learning node.js(express)
-- 🥅 My goals: make app in angular & node.js(express)
+- 👱‍♂️ Thirteen-year-old student
+- 📚 I’m currently learning node.js & angular
 
 ## Tools and languages
 
@@ -11,8 +10,8 @@
 [<img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/html.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/sass.png" />](https://sass-lang.com/)
-[<img align="left" alt="Js" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/js.png" />]()
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/angular.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="Js" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/js.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/angular.png" />](https://angular.io/)
 [<img align="left" alt="Gulp" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/gulp.png" />](https://gulpjs.com/)
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/nodejs.png" />](https://nodejs.org/en/)
 [<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/marcing20067/marcing20067/main/icons/express.png" />](https://expressjs.com/)
