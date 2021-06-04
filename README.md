@@ -1,7 +1,6 @@
 # Hi, I'm Marcin Grądzik
 
 - 💻 I'm Front-end Developer.
-- 👱‍♂️ Thirteen-year-old student
 - 📚 I’m currently learning node.js & angular
 
 ## Tools and languages
