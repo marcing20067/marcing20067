@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express, Mongodb & Scully**
 
-- 👨‍💻 All of my projects are available at [here, at Github](here, at Github)
+- 👨‍💻 All of my projects are available at here, at Github
 
 - 💬 Ask me about **Angular, Angular Material, HTML, CSS, SASS JS, Scully**
 
