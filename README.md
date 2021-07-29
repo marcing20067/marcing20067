@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at here, at Github
 
-- 💬 Ask me about **Angular, Angular Material, HTML, CSS, SASS JS, Scully**
+- 💬 Ask me about **technologies from my stack**
 
 - 📫 How to reach me **Discord: MG.#1884**
 
