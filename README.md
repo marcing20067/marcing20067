@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
 <h3 align="center">Frontend Developer from Poland</h3>
 
-- 🔭 I’m currently working on **Angular, HTML, (S)CSS for open source project**
+- 🔭 I’m currently working on **my portfolio project**
 
-- 🌱 I’m currently learning **Node.js, Express, Mongodb & Scully**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at here, at Github
 
