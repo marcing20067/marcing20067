@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
 <h3 align="center">Frontend Developer from Poland</h3>
 
-- 🔭 I’m currently learning UI/UX design
+- 🔭 I’m currently learning **UI/UX design**
 
 - 🌱 I’m currently learning **Typescript**
 
