@@ -3,15 +3,11 @@
 
 - 🔭 I’m currently learning **UI/UX design**
 
-- 🌱 I’m currently learning **Typescript**
-
 - 👨‍💻 All of my projects are available at here, at Github
 
 - 💬 Ask me about **technologies from my stack**
 
 - 📫 How to reach me **Discord: MG.#1884**
-
-- ⚡ Fun fact **I love pancakes**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
