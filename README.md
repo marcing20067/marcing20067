@@ -13,5 +13,4 @@
 [<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">](https://dribbble.com/mawebb)
 <br> <br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=marcing20067&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcing20067&layout=compact)
