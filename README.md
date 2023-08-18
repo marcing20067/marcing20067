@@ -1,59 +1,18 @@
-<h1 align="center">Hi 👋, I'm Marcin</h1>
-<h3 align="center">Frontend Developer from Poland</h3>
+## Hi 👋, I'm Marcin
 
-- 🔭 I’m currently learning **UI/UX design**
+### :hammer: Languages and Tools
 
-- 👨‍💻 All of my projects are available at here, at Github
+**Main Stack:** Angular, Scully, Typescript, Nodejs, Express, MongoDB, SASS
 
-- 💬 Ask me about **technologies from my stack**
+**Others:** Gulp, Figma, GIT, HTML, CSS
 
-- 📫 How to reach me **Discord: MG.#1884**
+### :phone: Let's stay in touch
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+[<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/473846740286570496/)
+[<img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">](https://www.behance.net/maweb)
+[<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">](https://dribbble.com/mawebb)
 
-<a href="https://angular.io" target="_blank"> 
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+---
 
-<a href="https://scully.io/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" alt="scully" width="40" height="40"/> </a>
-
-<a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-
-<a href="https://sass-lang.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-
-<a href="https://www.typescriptlang.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-
-<a href="https://gulpjs.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
-
-<a href="https://babeljs.io/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
-<a href="https://nodejs.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-
-<a href="https://expressjs.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-
-<a href="https://www.mongodb.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-
-<a href="https://www.figma.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcing20067&show_icons=true&locale=en" alt="marcing20067" /></p>
+![Github stats](https://github-readme-stats.vercel.app/api?username=marcing20067&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcing20067&layout=compact)
