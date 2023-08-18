@@ -2,9 +2,9 @@
 
 ### :hammer: Languages and Tools
 
-**Main Stack:** Angular, Scully, Typescript, Nodejs, Express, MongoDB, SASS
+**Main Stack:** Angular, Scully, TypeScript, Nodejs, Express, MongoDB, SASS
 
-**Others:** Gulp, Figma, GIT, HTML, CSS
+**Others:** Gulp, Figma, GIT, HTML, CSS, JavaScript
 
 ### :phone: Let's stay in touch
 
